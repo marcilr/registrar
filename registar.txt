@@ -17,7 +17,7 @@ Domain              Expires    Comment
 ------------------------------------------------------------
 rockhounding.org    16/10/20
 rockhounding.net    12/10/20   04/26/19 set Melbource IT creds
-rockhounidng.info   01/01/20   
+rockhounding.info   01/01/20   
 rockhounding.com    03/03/20
 rockhounding.biz    17/08/27   purchased Sat, Aug 19, 2017, 4:16 PM
                                paid US$267 20/08/17
